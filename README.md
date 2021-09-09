@@ -1,5 +1,5 @@
-# Amazon Sagemaker Built in Algorithms for Regression.
-Regression using XGBoost and Linear Learner Algorithms.
+# Amazon Textract - a fully-managed AI Service for analyzing documents
+#### A workshop on extracting text from documents
 
 # Getting Started
 
